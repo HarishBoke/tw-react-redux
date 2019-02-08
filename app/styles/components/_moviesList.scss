@@ -1,0 +1,20 @@
+
+        .movieItem {
+            width: '18rem';
+            float: 'left';
+            margin: '15px';
+        }
+        
+        ._title {
+            padding:20px;
+        }
+        ._moviesList {
+            clear: both
+        }
+        .card-img-top {
+            height: 200px;
+            object-fit: cover;
+        }
+        .card-text {
+            min-height: 120px;
+        }

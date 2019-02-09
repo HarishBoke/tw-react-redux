@@ -8,9 +8,9 @@ export default class Header extends React.Component {
 	render() {
 		return (
 			<header className="navbar navbar-dark bg-dark box-shadow fixed-top">
-				<div className="container d-flex justify-content-between">
+				<div className="container-fluid d-flex justify-content-between">
 					<a href="/" className="navbar-brand d-flex align-items-center">
-						<strong>Sample App</strong>
+						Harish React Movies listing App
 					</a>
 				</div>
 			</header>
